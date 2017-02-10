@@ -76,7 +76,7 @@
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://youtu.be/JuYeHPFR3f0",
+              "src": "https://www.youtube.com/watch?v=JuYeHPFR3f0",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": "on",
