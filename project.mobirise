@@ -72,15 +72,15 @@
           },
           "media": {
             "image": {
-              "active": true,
               "width": 1400,
               "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
             },
             "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://youtu.be/JuYeHPFR3f0",
               "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
+              "autoplay": "on",
+              "loop": "on",
+              "active": true
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
@@ -89,7 +89,7 @@
             }
           },
           "title": "a bit about me",
-          "text": "I got in to&nbsp;",
+          "text": "I got in to tech and&nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"index.html#content1-o\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
